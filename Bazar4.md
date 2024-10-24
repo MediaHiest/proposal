@@ -165,7 +165,7 @@ This proposal outlines three offers for developing a mobile application and admi
 
 ## **6. Conclusion**
 
-Each offer is tailored to meet different levels of complexity and scalability, allowing [Client's Business Name] to select the best option based on their business needs and budget. Whether you’re looking for a basic system or a full-featured app with advanced integrations and analytics, we’re confident in our ability to deliver a robust solution.
+Each offer is tailored to meet different levels of complexity and scalability, allowing Bazar4 to select the best option based on their business needs and budget. Whether you’re looking for a basic system or a full-featured app with advanced integrations and analytics, we’re confident in our ability to deliver a robust solution.
 
 We look forward to collaborating with you and helping you grow your business.
 
