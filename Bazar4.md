@@ -1,4 +1,4 @@
-# **Technical Proposal for [Client's Business Name]**
+# **Technical Proposal for Bazar4**
 
 **Prepared by:** Bazar4  
 **Date:** 22/05/2026
