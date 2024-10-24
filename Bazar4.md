@@ -160,6 +160,7 @@ This proposal outlines three offers for developing a mobile application and admi
 | **SendGrid Emails**          | N/A                     | $20                     | $40                     |
 | **MongoDB Atlas**            | $50                     | $75                     | $100                    |
 | **Google Analytics**         | Free                    | Free                    | Free                    |
+| **Elastic Stack**         | $95                    | $125                    | $150                    |
 
 ---
 
